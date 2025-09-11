@@ -17,6 +17,7 @@ En esta versión (`ts--inquirer`) incluimos:
 * **`jest`**: Framework de testing completo, rápido y confiable para realizar **unit tests, integration tests y e2e tests**.
 * **`ts-jest`**: Preprocesador que permite ejecutar tests escritos en TypeScript directamente con Jest, integrando perfectamente el ecosistema de TS y Jest.
 * **`@types/jest`**: Tipos TypeScript para Jest, facilitando el autocompletado y la validación de los tests dentro del editor.
+* **`@types/inquirer`**: Tipos TypeScript para la librería Inquirer, permitiendo autocompletado, validación de tipos y mejor integración con el editor al trabajar con prompts y
 
 💡 **Objetivo del template**:
 Permitir empezar un proyecto Node.js con una arquitectura limpia, pruebas configuradas y CLI interactiva sin preocuparse por la configuración inicial. Es ideal para experimentar con proyectos tipo **Clean Architecture / Hexagonal**, crear prototipos de CLI, o servir como base para aplicaciones más complejas.
