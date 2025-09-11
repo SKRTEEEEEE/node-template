@@ -11,23 +11,25 @@ Template básico de proyectos con NodeJs.
 
 ## [Recursos](https://github.com/SKRTEEEEEE/markdowns)
 ### Empezando
-Para ver y utilizar los diferentes template de este repositorio, navega a las diferentes ramas del proyecto una vez clonado.
-#### Estructura ramas.
-##### `main`
+Para ver y utilizar los diferentes template de este repositorio, navega a las diferentes [ramas del proyecto](#estructura-ramas) una vez clonado.
+### Estructura ramas.
+#### `main`
 Rama introductoria del proyecto
-##### [`ts-tw`](https://github.com/SKRTEEEEEE/node-template/tree/ts-tw)
+#### [`ts-tw`](https://github.com/SKRTEEEEEE/node-template/tree/ts-tw)
 Rama con **template de TypeScript con Tailwind:**
 - **Testing: `jest`**
 - Comandos paralelos: `concurrently`
+- *Arquitectura: 'Src' - frontend style*
 
 *Para dirigirte utiliza el siguiente comando:*
 ```bash
 git checkout ts-tw
 ```
-##### [`ts--inquirer`](https://github.com/SKRTEEEEEE/node-template/tree/ts-tw)
+#### [`ts--inquirer`](https://github.com/SKRTEEEEEE/node-template/tree/ts--inquirer)
 Rama con **template de TypeScript:**
 - **Testing: `jest`**
-- **CLI rl: `inquirer`**
+- **CLI UX** (rl): **`inquirer`**
+- *Arquitectura: 'Clean'*
 
 *Para dirigirte utiliza el siguiente comando:*
 ```bash
