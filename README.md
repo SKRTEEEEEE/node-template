@@ -16,9 +16,22 @@ Para ver y utilizar los diferentes template de este repositorio, navega a las di
 ##### `main`
 Rama introductoria del proyecto
 ##### [`ts-tw`](https://github.com/SKRTEEEEEE/node-template/tree/ts-tw)
-Rama con template de Tailwind con TypeScript y Jest. Para dirigirte utiliza el siguiente comando:
+Rama con **template de TypeScript con Tailwind:**
+- **Testing: `jest`**
+- Comandos paralelos: `concurrently`
+
+*Para dirigirte utiliza el siguiente comando:*
 ```bash
 git checkout ts-tw
+```
+##### [`ts--inquirer`](https://github.com/SKRTEEEEEE/node-template/tree/ts-tw)
+Rama con **template de TypeScript:**
+- **Testing: `jest`**
+- **CLI rl: `inquirer`**
+
+*Para dirigirte utiliza el siguiente comando:*
+```bash
+git checkout ts--inquirer
 ```
 ## Contacto
 
