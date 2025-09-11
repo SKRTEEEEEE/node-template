@@ -24,7 +24,7 @@ Permitir empezar un proyecto Node.js con una arquitectura limpia, pruebas config
 
 
 ## [Recursos](https://github.com/SKRTEEEEEE/markdowns)
-### [Empezando ⚠️🏗️](https://github.com/SKRTEEEEEE/markdowns/blob/main/utils/how-start/ts--inquirer_es.md)
+### [Empezando](https://github.com/SKRTEEEEEE/markdowns/blob/main/utils/how-start/ts--inquirer_es.md)
 ## Contacto
 
 ### Agradecimientos
