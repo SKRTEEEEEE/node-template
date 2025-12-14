@@ -15,6 +15,16 @@ Para ver y utilizar los diferentes template de este repositorio, navega a las di
 ### Estructura ramas.
 #### `main`
 Rama introductoria del proyecto
+#### [`github-action-ts`](https://github.com/SKRTEEEEEE/node-template/tree/github-action-ts)
+Rama con **template de TypeScript para Github Actions:**
+- **Testing: `vitest`**
+- **Typescript compiler: `swc`**
+- **CI/CD: ❤️‍🔥 high**
+
+*Para dirigirte utiliza el siguiente comando:*
+```bash
+git checkout github-action-ts
+```
 #### [`ts-tw`](https://github.com/SKRTEEEEEE/node-template/tree/ts-tw)
 Rama con **template de TypeScript con Tailwind:**
 - **Testing: `jest`**
