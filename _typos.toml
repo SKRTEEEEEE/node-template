@@ -1,5 +1,9 @@
 [files]
-extend-exclude = ["dist"]
+extend-exclude = [
+  "dist",
+  "docs/**/*.*.md",  # All .md files in subdirectories under docs/
+  "docs/task/**/*.md"  # Specific pattern for docs/task/ subdirectories
+]
 
 [default]
 extend-ignore-re = [
